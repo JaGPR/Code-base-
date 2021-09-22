@@ -1,5 +1,6 @@
 # Code-base-
 In this i have uplaoded all of my C codes for your help .
+
 2.1 WAP which implements the working of all Bit-wise operators.
 
 2.2 WAP to find largest out of three numbers by using ternary operator.
